@@ -1,0 +1,13 @@
+Package: DPB
+Title: Ferramentas para Plackett Burman no R
+Version: 0.0.0.9000
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: Funcoes para gerar matrizes Plackett Burman, ajustar modelos lineares e produzir ANOVA, coeficientes, R2 e graficos de efeitos e Pareto com limite critico.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    BsMD,
+    FrF2
